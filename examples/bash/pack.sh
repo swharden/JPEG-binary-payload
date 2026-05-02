@@ -1,0 +1,1 @@
+cat ../../sample-data/wave.jpg ../../sample-data/zen.txt > image_with_payload.jpg
